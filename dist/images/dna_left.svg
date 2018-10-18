@@ -1,0 +1,310 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 181 217">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-14, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #0085fd;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        fill: #50b4ff;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-8 {
+        fill: #008bd8;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-10 {
+        fill: #35b5fc;
+      }
+
+      .cls-11 {
+        fill: #f60;
+      }
+
+      .cls-12 {
+        fill: #aedeff;
+      }
+
+      .cls-13 {
+        fill: #ededed;
+      }
+
+      .cls-14 {
+        stroke: #0085ff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Mask" class="cls-1" width="165" height="217"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_2" data-name="Clip 2" class="cls-2" d="M0,0H-82.2V8.225H0Z" transform="translate(0 -0.071) rotate(-180)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Clip_5" data-name="Clip 5" class="cls-2" d="M0,0H-83.051V8.225H0Z" transform="translate(0.095 -0.071) rotate(-180)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Clip_8" data-name="Clip 8" class="cls-2" d="M0,213.738H-168.388V0H0Z" transform="translate(0 -0.544) rotate(-180)"/>
+    </clipPath>
+  </defs>
+  <g id="组_2" data-name="组 2" transform="translate(-14 -370)">
+    <circle id="Oval" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(189 393)"/>
+    <g id="组_1" data-name="组 1">
+      <g id="Group" transform="translate(14 370)">
+        <rect id="Mask-2" data-name="Mask" class="cls-1" width="165" height="217"/>
+        <g id="Group-2" data-name="Group" class="cls-4">
+          <g id="Group-3" data-name="Group" transform="translate(140) rotate(180)">
+            <g id="Group_3" data-name="Group 3" transform="translate(0 -0.473)">
+              <path id="Clip_2-2" data-name="Clip 2" class="cls-2" d="M0,0H-82.2V8.225H0Z" transform="translate(0 -0.071) rotate(-180)"/>
+              <g id="Group_3-2" data-name="Group 3" class="cls-5">
+                <path id="Fill_1" data-name="Fill 1" class="cls-6" d="M-82.2,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-78.107a4.116,4.116,0,0,0-4.1,4.112" transform="translate(0 -0.071) rotate(-180)"/>
+              </g>
+            </g>
+            <g id="Group_6" data-name="Group 6" transform="translate(81.826 -0.473)">
+              <path id="Clip_5-2" data-name="Clip 5" class="cls-2" d="M0,0H-83.051V8.225H0Z" transform="translate(0.095 -0.071) rotate(-180)"/>
+              <g id="Group_6-2" data-name="Group 6" class="cls-7">
+                <path id="Fill_4" data-name="Fill 4" class="cls-8" d="M-83.051,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-78.955a4.116,4.116,0,0,0-4.1,4.112" transform="translate(0.095 -0.071) rotate(-180)"/>
+              </g>
+            </g>
+            <path id="Clip_8-2" data-name="Clip 8" class="cls-2" d="M0,213.738H-168.388V0H0Z" transform="translate(0 -0.544) rotate(-180)"/>
+            <g class="cls-9">
+              <path id="Fill_7" data-name="Fill 7" class="cls-10" d="M0,8.224H-6.78V0H0Z" transform="translate(13.277 -0.544) rotate(-180)"/>
+              <path id="Fill_9" data-name="Fill 9" class="cls-10" d="M0,8.224H-6.78V0H0Z" transform="translate(63.842 -0.544) rotate(-180)"/>
+              <path id="Fill_10" data-name="Fill 10" class="cls-1" d="M0,8.224H-3.39V0H0Z" transform="translate(108.475 -0.544) rotate(-180)"/>
+              <path id="Fill_11" data-name="Fill 11" class="cls-10" d="M0,8.224H-4.8V0H0Z" transform="translate(117.514 -0.544) rotate(-180)"/>
+              <path id="Fill_12" data-name="Fill 12" class="cls-11" d="M0,8.224H-4.237V0H0Z" transform="translate(149.718 -0.544) rotate(-180)"/>
+              <path id="Fill_13" data-name="Fill 13" class="cls-10" d="M0,8.224H-1.977V0H0Z" transform="translate(157.91 -0.544) rotate(-180)"/>
+              <path id="Fill_14" data-name="Fill 14" class="cls-10" d="M0,8.224H-13.277V0H0Z" transform="translate(126.554 -0.544) rotate(-180)"/>
+              <path id="Fill_15" data-name="Fill 15" class="cls-8" d="M0,8.224H-3.107V0H0Z" transform="translate(6.215 -0.544) rotate(-180)"/>
+              <path id="Fill_16" data-name="Fill 16" class="cls-8" d="M0,8.224H-2.26V0H0Z" transform="translate(21.186 -0.544) rotate(-180)"/>
+              <path id="Fill_17" data-name="Fill 17" class="cls-8" d="M0,8.224H-3.955V0H0Z" transform="translate(24.859 -0.544) rotate(-180)"/>
+              <path id="Fill_18" data-name="Fill 18" class="cls-8" d="M0,8.224H-22.034V0H0Z" transform="translate(34.746 -0.544) rotate(-180)"/>
+              <path id="Fill_19" data-name="Fill 19" class="cls-10" d="M-.35,0A3.056,3.056,0,0,0-3.39,3.053v2.12A3.055,3.055,0,0,0-.35,8.224H0V0Z" transform="translate(78.813 -0.544) rotate(-180)"/>
+              <path id="Fill_20" data-name="Fill 20" class="cls-10" d="M0,5.172V3.053A3.056,3.056,0,0,0-3.04,0H-17.8V8.224H-3.04A3.055,3.055,0,0,0,0,5.172" transform="translate(81.921 -0.544) rotate(-180)"/>
+              <path id="Fill_21" data-name="Fill 21" class="cls-12" d="M-82.2,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-78.107a4.116,4.116,0,0,0-4.1,4.112" transform="translate(0 -12.033) rotate(-180)"/>
+              <path id="Fill_22" data-name="Fill 22" class="cls-8" d="M-83.051,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-78.955a4.116,4.116,0,0,0-4.1,4.112" transform="translate(81.921 -12.033) rotate(-180)"/>
+              <path id="Fill_23" data-name="Fill 23" class="cls-10" d="M0,8.224H-6.78V0H0Z" transform="translate(13.277 -12.033) rotate(-180)"/>
+              <path id="Fill_24" data-name="Fill 24" class="cls-10" d="M0,8.224H-6.78V0H0Z" transform="translate(63.842 -12.033) rotate(-180)"/>
+              <path id="Fill_25" data-name="Fill 25" class="cls-1" d="M0,8.224H-3.39V0H0Z" transform="translate(108.475 -12.033) rotate(-180)"/>
+              <path id="Fill_26" data-name="Fill 26" class="cls-10" d="M0,8.224H-4.8V0H0Z" transform="translate(117.514 -12.033) rotate(-180)"/>
+              <path id="Fill_27" data-name="Fill 27" class="cls-12" d="M0,8.224H-4.237V0H0Z" transform="translate(149.718 -12.033) rotate(-180)"/>
+              <path id="Fill_28" data-name="Fill 28" class="cls-11" d="M0,8.224H-4.237V0H0Z" transform="translate(72.599 -12.033) rotate(-180)"/>
+              <path id="Fill_29" data-name="Fill 29" class="cls-10" d="M0,8.224H-1.977V0H0Z" transform="translate(157.91 -12.033) rotate(-180)"/>
+              <path id="Fill_30" data-name="Fill 30" class="cls-10" d="M0,8.224H-13.277V0H0Z" transform="translate(126.554 -12.033) rotate(-180)"/>
+              <path id="Fill_31" data-name="Fill 31" class="cls-8" d="M0,8.224H-3.107V0H0Z" transform="translate(6.215 -12.033) rotate(-180)"/>
+              <path id="Fill_32" data-name="Fill 32" class="cls-8" d="M0,8.224H-2.26V0H0Z" transform="translate(21.186 -12.033) rotate(-180)"/>
+              <path id="Fill_33" data-name="Fill 33" class="cls-11" d="M0,8.224H-3.955V0H0Z" transform="translate(24.859 -12.033) rotate(-180)"/>
+              <path id="Fill_34" data-name="Fill 34" class="cls-6" d="M0,8.224H-22.034V0H0Z" transform="translate(34.746 -12.033) rotate(-180)"/>
+              <path id="Fill_35" data-name="Fill 35" class="cls-10" d="M-.35,0A3.056,3.056,0,0,0-3.39,3.053v2.12A3.055,3.055,0,0,0-.35,8.224H0V0Z" transform="translate(78.813 -12.033) rotate(-180)"/>
+              <path id="Fill_36" data-name="Fill 36" class="cls-10" d="M0,5.172V3.053A3.056,3.056,0,0,0-3.04,0H-17.8V8.224H-3.04A3.055,3.055,0,0,0,0,5.172" transform="translate(81.921 -12.033) rotate(-180)"/>
+              <path id="Fill_37" data-name="Fill 37" class="cls-12" d="M-64.972,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0h-56.78a4.116,4.116,0,0,0-4.1,4.112" transform="translate(3.955 -32.881) rotate(-180)"/>
+              <path id="Fill_38" data-name="Fill 38" class="cls-12" d="M-96.328,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-92.232a4.116,4.116,0,0,0-4.1,4.112" transform="translate(68.644 -32.881) rotate(-180)"/>
+              <path id="Fill_39" data-name="Fill 39" class="cls-10" d="M0,8.224H-8.757V0H0Z" transform="translate(53.107 -32.882) rotate(-180)"/>
+              <path id="Fill_40" data-name="Fill 40" class="cls-1" d="M0,8.224H-11.582V0H0Z" transform="translate(98.87 -32.882) rotate(-180)"/>
+              <path id="Fill_41" data-name="Fill 41" class="cls-10" d="M0,8.224H-10.17V0H0Z" transform="translate(114.407 -32.882) rotate(-180)"/>
+              <path id="Fill_42" data-name="Fill 42" class="cls-12" d="M0,8.224H-4.237V0H0Z" transform="translate(149.718 -32.882) rotate(-180)"/>
+              <path id="Fill_43" data-name="Fill 43" class="cls-10" d="M0,8.224H-1.977V0H0Z" transform="translate(153.672 -32.882) rotate(-180)"/>
+              <path id="Fill_44" data-name="Fill 44" class="cls-10" d="M0,8.224H-1.977V0H0Z" transform="translate(138.983 -32.882) rotate(-180)"/>
+              <path id="Fill_45" data-name="Fill 45" class="cls-10" d="M0,8.224H-3.955V0H0Z" transform="translate(144.351 -32.882) rotate(-180)"/>
+              <path id="Fill_46" data-name="Fill 46" class="cls-8" d="M0,8.224H-7.91V0H0Z" transform="translate(129.096 -32.882) rotate(-180)"/>
+              <path id="Fill_47" data-name="Fill 47" class="cls-10" d="M0,8.224H-3.672V0H0Z" transform="translate(10.735 -32.882) rotate(-180)"/>
+              <path id="Fill_48" data-name="Fill 48" class="cls-8" d="M0,8.224H-5.085V0H0Z" transform="translate(20.339 -32.882) rotate(-180)"/>
+              <path id="Fill_49" data-name="Fill 49" class="cls-8" d="M0,8.224H-14.124V0H0Z" transform="translate(30.226 -32.882) rotate(-180)"/>
+              <path id="Fill_50" data-name="Fill 50" class="cls-10" d="M0,8.224H-3.39V0H0Z" transform="translate(44.35 -32.882) rotate(-180)"/>
+              <path id="Fill_51" data-name="Fill 51" class="cls-6" d="M0,8.224H-3.107V0H0Z" transform="translate(41.808 -32.882) rotate(-180)"/>
+              <path id="Fill_52" data-name="Fill 52" class="cls-10" d="M0,8.224H-3.39V0H0Z" transform="translate(73.729 -32.882) rotate(-180)"/>
+              <path id="Fill_53" data-name="Fill 53" class="cls-10" d="M0,8.224H-2.542V0H0Z" transform="translate(89.266 -32.882) rotate(-180)"/>
+              <path id="Fill_54" data-name="Fill 54" class="cls-8" d="M0,8.224H-5.367V0H0Z" transform="translate(81.639 -32.882) rotate(-180)"/>
+              <path id="Fill_55" data-name="Fill 55" class="cls-12" d="M-64.972,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0h-56.78a4.116,4.116,0,0,0-4.1,4.112" transform="translate(3.955 -44.371) rotate(-180)"/>
+              <path id="Fill_56" data-name="Fill 56" class="cls-12" d="M-96.328,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-92.232a4.116,4.116,0,0,0-4.1,4.112" transform="translate(68.644 -44.371) rotate(-180)"/>
+              <path id="Fill_57" data-name="Fill 57" class="cls-10" d="M0,8.224H-8.757V0H0Z" transform="translate(53.107 -44.371) rotate(-180)"/>
+              <path id="Fill_58" data-name="Fill 58" class="cls-1" d="M0,8.224H-11.582V0H0Z" transform="translate(98.87 -44.371) rotate(-180)"/>
+              <path id="Fill_59" data-name="Fill 59" class="cls-10" d="M0,8.224H-10.17V0H0Z" transform="translate(114.407 -44.371) rotate(-180)"/>
+              <path id="Fill_60" data-name="Fill 60" class="cls-12" d="M0,8.224H-4.237V0H0Z" transform="translate(149.718 -44.371) rotate(-180)"/>
+              <path id="Fill_61" data-name="Fill 61" class="cls-10" d="M0,8.224H-1.977V0H0Z" transform="translate(153.672 -44.371) rotate(-180)"/>
+              <path id="Fill_62" data-name="Fill 62" class="cls-10" d="M0,8.224H-1.977V0H0Z" transform="translate(138.983 -44.371) rotate(-180)"/>
+              <path id="Fill_63" data-name="Fill 63" class="cls-10" d="M0,8.224H-3.955V0H0Z" transform="translate(144.351 -44.371) rotate(-180)"/>
+              <path id="Fill_64" data-name="Fill 64" class="cls-8" d="M0,8.224H-7.91V0H0Z" transform="translate(129.096 -44.371) rotate(-180)"/>
+              <path id="Fill_65" data-name="Fill 65" class="cls-10" d="M0,8.224H-3.672V0H0Z" transform="translate(10.735 -44.371) rotate(-180)"/>
+              <path id="Fill_66" data-name="Fill 66" class="cls-8" d="M0,8.224H-5.085V0H0Z" transform="translate(20.339 -44.371) rotate(-180)"/>
+              <path id="Fill_67" data-name="Fill 67" class="cls-8" d="M0,8.224H-14.124V0H0Z" transform="translate(30.226 -44.371) rotate(-180)"/>
+              <path id="Fill_68" data-name="Fill 68" class="cls-10" d="M0,8.224H-3.39V0H0Z" transform="translate(44.35 -44.371) rotate(-180)"/>
+              <path id="Fill_69" data-name="Fill 69" class="cls-11" d="M0,8.224H-3.107V0H0Z" transform="translate(18.362 -44.371) rotate(-180)"/>
+              <path id="Fill_70" data-name="Fill 70" class="cls-10" d="M0,8.224H-3.39V0H0Z" transform="translate(73.729 -44.371) rotate(-180)"/>
+              <path id="Fill_71" data-name="Fill 71" class="cls-10" d="M0,8.224H-2.542V0H0Z" transform="translate(89.266 -44.371) rotate(-180)"/>
+              <path id="Fill_72" data-name="Fill 72" class="cls-8" d="M0,8.224H-5.367V0H0Z" transform="translate(81.639 -44.371) rotate(-180)"/>
+              <path id="Fill_73" data-name="Fill 73" class="cls-12" d="M-70.621,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-66.525a4.116,4.116,0,0,0-4.1,4.112" transform="translate(29.661 -65.219) rotate(-180)"/>
+              <path id="Fill_74" data-name="Fill 74" class="cls-12" d="M-64.972,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-60.875a4.116,4.116,0,0,0-4.1,4.112" transform="translate(100 -65.219) rotate(-180)"/>
+              <path id="Fill_75" data-name="Fill 75" class="cls-10" d="M0,8.224H-9.887V0H0Z" transform="translate(74.294 -65.219) rotate(-180)"/>
+              <path id="Fill_76" data-name="Fill 76" class="cls-1" d="M0,8.224H-5.367V0H0Z" transform="translate(110.735 -65.219) rotate(-180)"/>
+              <path id="Fill_77" data-name="Fill 77" class="cls-10" d="M0,8.224H-5.932V0H0Z" transform="translate(119.492 -65.219) rotate(-180)"/>
+              <path id="Fill_78" data-name="Fill 78" class="cls-10" d="M0,8.224H-6.5V0H0Z" transform="translate(137.006 -65.219) rotate(-180)"/>
+              <path id="Fill_79" data-name="Fill 79" class="cls-13" d="M0,8.224H-4.237V0H0Z" transform="translate(147.175 -65.219) rotate(-180)"/>
+              <path id="Fill_80" data-name="Fill 80" class="cls-10" d="M0,8.224H-3.955V0H0Z" transform="translate(152.26 -65.219) rotate(-180)"/>
+              <path id="Fill_81" data-name="Fill 81" class="cls-10" d="M0,8.224H-1.7V0H0Z" transform="translate(132.203 -65.219) rotate(-180)"/>
+              <path id="Fill_82" data-name="Fill 82" class="cls-8" d="M0,8.224H-10.452V0H0Z" transform="translate(46.611 -65.219) rotate(-180)"/>
+              <path id="Fill_83" data-name="Fill 83" class="cls-8" d="M0,8.224H-2.825V0H0Z" transform="translate(61.582 -65.219) rotate(-180)"/>
+              <path id="Fill_84" data-name="Fill 84" class="cls-11" d="M0,8.224H-2.825V0H0Z" transform="translate(44.35 -65.219) rotate(-180)"/>
+              <path id="Fill_85" data-name="Fill 85" class="cls-11" d="M0,8.224H-2.825V0H0Z" transform="translate(67.797 -65.219) rotate(-180)"/>
+              <path id="Fill_86" data-name="Fill 86" class="cls-10" d="M-3.041,8.224A3.055,3.055,0,0,0,0,5.172V3.052A3.055,3.055,0,0,0-3.041,0h-.35V8.224Z" transform="translate(29.661 -65.219) rotate(-180)"/>
+              <path id="Fill_87" data-name="Fill 87" class="cls-10" d="M-.35,0A3.055,3.055,0,0,0-3.39,3.053v2.12A3.055,3.055,0,0,0-.35,8.224H0V0Z" transform="translate(161.582 -65.219) rotate(-180)"/>
+              <path id="Fill_88" data-name="Fill 88" class="cls-10" d="M-11.582,3.052v2.12a3.055,3.055,0,0,0,3.04,3.053H0V0H-8.542a3.055,3.055,0,0,0-3.04,3.052" transform="translate(88.7 -65.219) rotate(-180)"/>
+              <path id="Fill_89" data-name="Fill 89" class="cls-12" d="M-70.621,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-66.525a4.116,4.116,0,0,0-4.1,4.112" transform="translate(29.661 -76.708) rotate(-180)"/>
+              <path id="Fill_90" data-name="Fill 90" class="cls-12" d="M-64.972,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-60.875a4.116,4.116,0,0,0-4.1,4.112" transform="translate(100 -76.708) rotate(-180)"/>
+              <path id="Fill_91" data-name="Fill 91" class="cls-10" d="M0,8.224H-9.887V0H0Z" transform="translate(74.294 -76.708) rotate(-180)"/>
+              <path id="Fill_92" data-name="Fill 92" class="cls-1" d="M0,8.224H-5.367V0H0Z" transform="translate(110.735 -76.708) rotate(-180)"/>
+              <path id="Fill_93" data-name="Fill 93" class="cls-10" d="M0,8.224H-5.932V0H0Z" transform="translate(119.492 -76.708) rotate(-180)"/>
+              <path id="Fill_94" data-name="Fill 94" class="cls-10" d="M0,8.224H-6.5V0H0Z" transform="translate(137.006 -76.708) rotate(-180)"/>
+              <path id="Fill_95" data-name="Fill 95" class="cls-13" d="M0,8.224H-4.237V0H0Z" transform="translate(147.175 -76.708) rotate(-180)"/>
+              <path id="Fill_96" data-name="Fill 96" class="cls-10" d="M0,8.224H-3.955V0H0Z" transform="translate(152.26 -76.708) rotate(-180)"/>
+              <path id="Fill_97" data-name="Fill 97" class="cls-10" d="M0,8.224H-1.7V0H0Z" transform="translate(132.203 -76.708) rotate(-180)"/>
+              <path id="Fill_98" data-name="Fill 98" class="cls-8" d="M0,8.224H-10.452V0H0Z" transform="translate(46.611 -76.708) rotate(-180)"/>
+              <path id="Fill_99" data-name="Fill 99" class="cls-8" d="M0,8.224H-2.825V0H0Z" transform="translate(61.582 -76.708) rotate(-180)"/>
+              <path id="Fill_100" data-name="Fill 100" class="cls-10" d="M-3.041,8.224A3.055,3.055,0,0,0,0,5.172V3.052A3.055,3.055,0,0,0-3.041,0h-.35V8.224Z" transform="translate(29.661 -76.708) rotate(-180)"/>
+              <path id="Fill_101" data-name="Fill 101" class="cls-10" d="M-.35,0A3.055,3.055,0,0,0-3.39,3.052v2.12A3.055,3.055,0,0,0-.35,8.224H0V0Z" transform="translate(161.582 -76.708) rotate(-180)"/>
+              <path id="Fill_102" data-name="Fill 102" class="cls-10" d="M-11.582,3.052v2.12a3.055,3.055,0,0,0,3.04,3.053H0V0H-8.542a3.055,3.055,0,0,0-3.04,3.052" transform="translate(88.7 -76.708) rotate(-180)"/>
+              <path id="Fill_103" data-name="Fill 103" class="cls-12" d="M-40.113,4.113h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.113,4.117,4.117,0,0,0-4.1,0H-36.017a4.117,4.117,0,0,0-4.1,4.113" transform="translate(34.49 -97.556) rotate(-180)"/>
+              <path id="Fill_104" data-name="Fill 104" class="cls-12" d="M-90.4,4.113h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.113,4.117,4.117,0,0,0-4.1,0H-86.3a4.117,4.117,0,0,0-4.1,4.113" transform="translate(74.32 -97.556) rotate(-180)"/>
+              <path id="Fill_105" data-name="Fill 105" class="cls-10" d="M0,8.225H-2.26V0H0Z" transform="translate(54.829 -97.556) rotate(-180)"/>
+              <path id="Fill_106" data-name="Fill 106" class="cls-10" d="M0,8.225H-5.65V0H0Z" transform="translate(64.716 -97.556) rotate(-180)"/>
+              <path id="Fill_107" data-name="Fill 107" class="cls-10" d="M0,8.225H-11.3V0H0Z" transform="translate(80.535 -97.556) rotate(-180)"/>
+              <path id="Fill_108" data-name="Fill 108" class="cls-13" d="M0,8.225H-5.085V0H0Z" transform="translate(96.354 -97.556) rotate(-180)"/>
+              <path id="Fill_109" data-name="Fill 109" class="cls-10" d="M0,8.225H-3.672V0H0Z" transform="translate(103.134 -97.556) rotate(-180)"/>
+              <path id="Fill_110" data-name="Fill 110" class="cls-10" d="M0,8.225H-8.757V0H0Z" transform="translate(107.936 -97.556) rotate(-180)"/>
+              <path id="Fill_111" data-name="Fill 111" class="cls-10" d="M0,8.225H-2.542V0H0Z" transform="translate(135.055 -97.556) rotate(-180)"/>
+              <path id="Fill_112" data-name="Fill 112" class="cls-10" d="M0,8.225H-7.91V0H0Z" transform="translate(141.269 -97.556) rotate(-180)"/>
+              <path id="Fill_113" data-name="Fill 113" class="cls-10" d="M0,8.225H-3.955V0H0Z" transform="translate(153.981 -97.556) rotate(-180)"/>
+              <path id="Fill_114" data-name="Fill 114" class="cls-8" d="M0,8.225H-12.994V0H0Z" transform="translate(119.518 -97.556) rotate(-180)"/>
+              <path id="Fill_115" data-name="Fill 115" class="cls-8" d="M0,8.225H-7.063V0H0Z" transform="translate(43.812 -97.556) rotate(-180)"/>
+              <path id="Fill_116" data-name="Fill 116" class="cls-12" d="M-40.113,4.113h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.113,4.116,4.116,0,0,0-4.1,0H-36.017a4.116,4.116,0,0,0-4.1,4.113" transform="translate(34.49 -109.045) rotate(-180)"/>
+              <path id="Fill_117" data-name="Fill 117" class="cls-12" d="M-90.4,4.113h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.113,4.116,4.116,0,0,0-4.1,0H-86.3a4.116,4.116,0,0,0-4.1,4.113" transform="translate(74.32 -109.045) rotate(-180)"/>
+              <path id="Fill_118" data-name="Fill 118" class="cls-10" d="M0,8.225H-2.26V0H0Z" transform="translate(54.829 -109.045) rotate(-180)"/>
+              <path id="Fill_119" data-name="Fill 119" class="cls-10" d="M0,8.225H-5.65V0H0Z" transform="translate(64.716 -109.045) rotate(-180)"/>
+              <path id="Fill_120" data-name="Fill 120" class="cls-10" d="M0,8.225H-11.3V0H0Z" transform="translate(80.535 -109.045) rotate(-180)"/>
+              <path id="Fill_121" data-name="Fill 121" class="cls-13" d="M0,8.225H-5.085V0H0Z" transform="translate(96.354 -109.045) rotate(-180)"/>
+              <path id="Fill_122" data-name="Fill 122" class="cls-10" d="M0,8.225H-3.672V0H0Z" transform="translate(103.134 -109.045) rotate(-180)"/>
+              <path id="Fill_123" data-name="Fill 123" class="cls-10" d="M0,8.225H-8.757V0H0Z" transform="translate(107.936 -109.045) rotate(-180)"/>
+              <path id="Fill_124" data-name="Fill 124" class="cls-10" d="M0,8.225H-2.542V0H0Z" transform="translate(135.055 -109.045) rotate(-180)"/>
+              <path id="Fill_125" data-name="Fill 125" class="cls-10" d="M0,8.225H-7.91V0H0Z" transform="translate(141.269 -109.045) rotate(-180)"/>
+              <path id="Fill_126" data-name="Fill 126" class="cls-10" d="M0,8.225H-3.955V0H0Z" transform="translate(153.981 -109.045) rotate(-180)"/>
+              <path id="Fill_127" data-name="Fill 127" class="cls-8" d="M0,8.225H-12.994V0H0Z" transform="translate(119.518 -109.045) rotate(-180)"/>
+              <path id="Fill_128" data-name="Fill 128" class="cls-8" d="M0,8.225H-7.063V0H0Z" transform="translate(43.812 -109.045) rotate(-180)"/>
+              <path id="Fill_129" data-name="Fill 129" class="cls-12" d="M-38.418,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-34.322a4.116,4.116,0,0,0-4.1,4.112" transform="translate(39.574 -129.894) rotate(-180)"/>
+              <path id="Fill_130" data-name="Fill 130" class="cls-12" d="M-87.006,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-82.909a4.116,4.116,0,0,0-4.1,4.112" transform="translate(77.71 -129.894) rotate(-180)"/>
+              <path id="Fill_131" data-name="Fill 131" class="cls-8" d="M0,8.224H-12.147V0H0Z" transform="translate(55.394 -129.894) rotate(-180)"/>
+              <path id="Fill_132" data-name="Fill 132" class="cls-10" d="M0,8.224H-5.085V0H0Z" transform="translate(84.772 -129.894) rotate(-180)"/>
+              <path id="Fill_133" data-name="Fill 133" class="cls-13" d="M0,8.224H-10.17V0H0Z" transform="translate(120.648 -129.894) rotate(-180)"/>
+              <path id="Fill_134" data-name="Fill 134" class="cls-10" d="M0,8.224H-9.605V0H0Z" transform="translate(97.201 -129.894) rotate(-180)"/>
+              <path id="Fill_135" data-name="Fill 135" class="cls-8" d="M0,8.224H-12.147V0H0Z" transform="translate(108.501 -129.894) rotate(-180)"/>
+              <path id="Fill_136" data-name="Fill 136" class="cls-10" d="M0,8.224H-3.955V0H0Z" transform="translate(145.224 -129.894) rotate(-180)"/>
+              <path id="Fill_137" data-name="Fill 137" class="cls-10" d="M0,8.224H-5.367V0H0Z" transform="translate(152.004 -129.894) rotate(-180)"/>
+              <path id="Fill_138" data-name="Fill 138" class="cls-8" d="M0,8.224H-2.26V0H0Z" transform="translate(50.874 -129.894) rotate(-180)"/>
+              <path id="Fill_139" data-name="Fill 139" class="cls-10" d="M-.35,0A3.055,3.055,0,0,0-3.39,3.052v2.12A3.055,3.055,0,0,0-.35,8.224H0V0Z" transform="translate(74.602 -129.894) rotate(-180)"/>
+              <path id="Fill_140" data-name="Fill 140" class="cls-11" d="M0,8.224H-1.7V0H0Z" transform="translate(100.874 -129.894) rotate(-180)"/>
+              <path id="Fill_141" data-name="Fill 141" class="cls-11" d="M0,8.224H-3.39V0H0Z" transform="translate(124.602 -129.894) rotate(-180)"/>
+              <path id="Fill_142" data-name="Fill 142" class="cls-12" d="M-38.418,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-34.322a4.116,4.116,0,0,0-4.1,4.112" transform="translate(39.574 -141.383) rotate(-180)"/>
+              <path id="Fill_143" data-name="Fill 143" class="cls-12" d="M-87.006,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-82.909a4.116,4.116,0,0,0-4.1,4.112" transform="translate(77.71 -141.383) rotate(-180)"/>
+              <path id="Fill_144" data-name="Fill 144" class="cls-8" d="M0,8.224H-12.147V0H0Z" transform="translate(55.394 -141.383) rotate(-180)"/>
+              <path id="Fill_145" data-name="Fill 145" class="cls-10" d="M0,8.224H-5.085V0H0Z" transform="translate(84.772 -141.383) rotate(-180)"/>
+              <path id="Fill_146" data-name="Fill 146" class="cls-13" d="M0,8.224H-10.17V0H0Z" transform="translate(120.648 -141.383) rotate(-180)"/>
+              <path id="Fill_147" data-name="Fill 147" class="cls-10" d="M0,8.224H-9.605V0H0Z" transform="translate(97.201 -141.383) rotate(-180)"/>
+              <path id="Fill_148" data-name="Fill 148" class="cls-8" d="M0,8.224H-12.147V0H0Z" transform="translate(108.501 -141.383) rotate(-180)"/>
+              <path id="Fill_149" data-name="Fill 149" class="cls-10" d="M0,8.224H-3.955V0H0Z" transform="translate(145.224 -141.383) rotate(-180)"/>
+              <path id="Fill_150" data-name="Fill 150" class="cls-10" d="M0,8.224H-5.367V0H0Z" transform="translate(152.004 -141.383) rotate(-180)"/>
+              <path id="Fill_151" data-name="Fill 151" class="cls-8" d="M0,8.224H-2.26V0H0Z" transform="translate(50.874 -141.383) rotate(-180)"/>
+              <path id="Fill_152" data-name="Fill 152" class="cls-10" d="M-.35,0A3.055,3.055,0,0,0-3.39,3.052v2.12A3.055,3.055,0,0,0-.35,8.224H0V0Z" transform="translate(74.602 -141.383) rotate(-180)"/>
+              <path id="Fill_153" data-name="Fill 153" class="cls-6" d="M0,8.224H-4.237V0H0Z" transform="translate(70.366 -141.383) rotate(-180)"/>
+              <path id="Fill_154" data-name="Fill 154" class="cls-6" d="M0,8.224H-2.26V0H0Z" transform="translate(156.241 -141.383) rotate(-180)"/>
+              <path id="Fill_155" data-name="Fill 155" class="cls-12" d="M-72.034,4.112h0a4.116,4.116,0,0,0,4.1,4.113H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-67.938a4.116,4.116,0,0,0-4.1,4.112" transform="translate(93.529 -162.231) rotate(-180)"/>
+              <path id="Fill_156" data-name="Fill 156" class="cls-8" d="M0,8.225H-3.107V0H0Z" transform="translate(103.982 -162.231) rotate(-180)"/>
+              <path id="Fill_157" data-name="Fill 157" class="cls-10" d="M0,8.225H-6.78V0H0Z" transform="translate(110.195 -162.231) rotate(-180)"/>
+              <path id="Fill_158" data-name="Fill 158" class="cls-8" d="M0,8.225H-2.825V0H0Z" transform="translate(118.67 -162.231) rotate(-180)"/>
+              <path id="Fill_159" data-name="Fill 159" class="cls-10" d="M0,8.225H-6.215V0H0Z" transform="translate(142.116 -162.231) rotate(-180)"/>
+              <path id="Fill_160" data-name="Fill 160" class="cls-11" d="M0,8.225H-3.39V0H0Z" transform="translate(138.727 -162.231) rotate(-180)"/>
+              <path id="Fill_161" data-name="Fill 161" class="cls-8" d="M0,8.225H-12.712V0H0Z" transform="translate(123.755 -162.231) rotate(-180)"/>
+              <path id="Fill_162" data-name="Fill 162" class="cls-8" d="M0,8.225H-2.542V0H0Z" transform="translate(156.524 -162.231) rotate(-180)"/>
+              <path id="Fill_163" data-name="Fill 163" class="cls-10" d="M-3.04,0A3.055,3.055,0,0,1,0,3.053v2.12A3.055,3.055,0,0,1-3.04,8.225H-7.627V0Z" transform="translate(93.529 -162.231) rotate(-180)"/>
+              <path id="Fill_164" data-name="Fill 164" class="cls-12" d="M-51.13,4.112h0a4.116,4.116,0,0,0,4.1,4.113H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-47.034a4.116,4.116,0,0,0-4.1,4.112" transform="translate(42.682 -162.231) rotate(-180)"/>
+              <path id="Fill_165" data-name="Fill 165" class="cls-10" d="M0,8.225H-9.887V0H0Z" transform="translate(57.371 -162.231) rotate(-180)"/>
+              <path id="Fill_166" data-name="Fill 166" class="cls-8" d="M0,8.225H-1.412V0H0Z" transform="translate(75.733 -162.231) rotate(-180)"/>
+              <path id="Fill_167" data-name="Fill 167" class="cls-8" d="M0,8.225H-1.7V0H0Z" transform="translate(48.896 -162.231) rotate(-180)"/>
+              <path id="Fill_168" data-name="Fill 168" class="cls-8" d="M0,8.225H-9.04V0H0Z" transform="translate(80.535 -162.231) rotate(-180)"/>
+              <path id="Fill_169" data-name="Fill 169" class="cls-6" d="M0,8.225H-3.39V0H0Z" transform="translate(59.631 -162.231) rotate(-180)"/>
+              <path id="Fill_170" data-name="Fill 170" class="cls-12" d="M-72.034,4.112h0a4.116,4.116,0,0,0,4.1,4.113H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-67.938a4.116,4.116,0,0,0-4.1,4.112" transform="translate(93.529 -173.72) rotate(-180)"/>
+              <path id="Fill_171" data-name="Fill 171" class="cls-8" d="M0,8.225H-3.107V0H0Z" transform="translate(103.982 -173.72) rotate(-180)"/>
+              <path id="Fill_172" data-name="Fill 172" class="cls-10" d="M0,8.225H-6.78V0H0Z" transform="translate(110.195 -173.72) rotate(-180)"/>
+              <path id="Fill_173" data-name="Fill 173" class="cls-8" d="M0,8.225H-2.825V0H0Z" transform="translate(118.67 -173.72) rotate(-180)"/>
+              <path id="Fill_174" data-name="Fill 174" class="cls-10" d="M0,8.225H-6.215V0H0Z" transform="translate(142.116 -173.72) rotate(-180)"/>
+              <path id="Fill_175" data-name="Fill 175" class="cls-11" d="M0,8.225H-3.39V0H0Z" transform="translate(138.727 -173.72) rotate(-180)"/>
+              <path id="Fill_176" data-name="Fill 176" class="cls-8" d="M0,8.225H-12.712V0H0Z" transform="translate(123.755 -173.72) rotate(-180)"/>
+              <path id="Fill_177" data-name="Fill 177" class="cls-8" d="M0,8.225H-2.542V0H0Z" transform="translate(156.524 -173.72) rotate(-180)"/>
+              <path id="Fill_178" data-name="Fill 178" class="cls-10" d="M-3.04,0A3.055,3.055,0,0,1,0,3.053v2.12A3.055,3.055,0,0,1-3.04,8.225H-7.627V0Z" transform="translate(93.529 -173.72) rotate(-180)"/>
+              <path id="Fill_179" data-name="Fill 179" class="cls-12" d="M-51.13,4.112h0a4.116,4.116,0,0,0,4.1,4.113H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-47.034a4.116,4.116,0,0,0-4.1,4.112" transform="translate(42.682 -173.72) rotate(-180)"/>
+              <path id="Fill_180" data-name="Fill 180" class="cls-10" d="M0,8.225H-9.887V0H0Z" transform="translate(57.371 -173.72) rotate(-180)"/>
+              <path id="Fill_181" data-name="Fill 181" class="cls-8" d="M0,8.225H-1.412V0H0Z" transform="translate(75.733 -173.72) rotate(-180)"/>
+              <path id="Fill_182" data-name="Fill 182" class="cls-8" d="M0,8.225H-1.7V0H0Z" transform="translate(48.896 -173.72) rotate(-180)"/>
+              <path id="Fill_183" data-name="Fill 183" class="cls-8" d="M0,8.225H-9.04V0H0Z" transform="translate(80.535 -173.72) rotate(-180)"/>
+              <path id="Fill_184" data-name="Fill 184" class="cls-6" d="M0,8.225H-3.39V0H0Z" transform="translate(57.653 -173.72) rotate(-180)"/>
+              <path id="Fill_185" data-name="Fill 185" class="cls-11" d="M0,8.225H-5.65V0H0Z" transform="translate(46.354 -173.72) rotate(-180)"/>
+              <path id="Fill_186" data-name="Fill 186" class="cls-12" d="M-66.667,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-62.57a4.116,4.116,0,0,0-4.1,4.112" transform="translate(101.721 -194.568) rotate(-180)"/>
+              <path id="Fill_187" data-name="Fill 187" class="cls-8" d="M0,8.224H-12.994V0H0Z" transform="translate(111.608 -194.569) rotate(-180)"/>
+              <path id="Fill_188" data-name="Fill 188" class="cls-6" d="M0,8.224H-4.52V0H0Z" transform="translate(109.913 -194.569) rotate(-180)"/>
+              <path id="Fill_189" data-name="Fill 189" class="cls-10" d="M0,8.224H-6.78V0H0Z" transform="translate(126.297 -194.569) rotate(-180)"/>
+              <path id="Fill_190" data-name="Fill 190" class="cls-10" d="M0,8.224H-2.542V0H0Z" transform="translate(152.004 -194.569) rotate(-180)"/>
+              <path id="Fill_191" data-name="Fill 191" class="cls-8" d="M0,8.224H-4.237V0H0Z" transform="translate(139.857 -194.569) rotate(-180)"/>
+              <path id="Fill_192" data-name="Fill 192" class="cls-8" d="M0,8.224H-2.26V0H0Z" transform="translate(158.501 -194.569) rotate(-180)"/>
+              <path id="Fill_193" data-name="Fill 193" class="cls-12" d="M-43.22,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-39.124a4.116,4.116,0,0,0-4.1,4.112" transform="translate(58.783 -194.568) rotate(-180)"/>
+              <path id="Fill_194" data-name="Fill 194" class="cls-10" d="M0,8.224H-11.865V0H0Z" transform="translate(65.845 -194.569) rotate(-180)"/>
+              <path id="Fill_195" data-name="Fill 195" class="cls-8" d="M0,8.224H-3.672V0H0Z" transform="translate(86.75 -194.569) rotate(-180)"/>
+              <path id="Fill_196" data-name="Fill 196" class="cls-8" d="M0,8.224H-3.107V0H0Z" transform="translate(94.659 -194.569) rotate(-180)"/>
+              <path id="Fill_197" data-name="Fill 197" class="cls-12" d="M-66.667,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.116,4.116,0,0,0,0,4.112,4.116,4.116,0,0,0-4.1,0H-62.57a4.116,4.116,0,0,0-4.1,4.112" transform="translate(101.721 -206.058) rotate(-180)"/>
+              <path id="Fill_198" data-name="Fill 198" class="cls-8" d="M0,8.224H-12.994V0H0Z" transform="translate(111.608 -206.058) rotate(-180)"/>
+              <path id="Fill_199" data-name="Fill 199" class="cls-6" d="M0,8.224H-5.367V0H0Z" transform="translate(104.829 -206.058) rotate(-180)"/>
+              <path id="Fill_200" data-name="Fill 200" class="cls-10" d="M0,8.224H-6.78V0H0Z" transform="translate(126.297 -206.058) rotate(-180)"/>
+              <path id="Fill_201" data-name="Fill 201" class="cls-10" d="M0,8.224H-2.542V0H0Z" transform="translate(152.004 -206.058) rotate(-180)"/>
+              <path id="Fill_202" data-name="Fill 202" class="cls-8" d="M0,8.224H-4.237V0H0Z" transform="translate(139.857 -206.058) rotate(-180)"/>
+              <path id="Fill_203" data-name="Fill 203" class="cls-8" d="M0,8.224H-2.26V0H0Z" transform="translate(158.501 -206.058) rotate(-180)"/>
+              <path id="Fill_204" data-name="Fill 204" class="cls-12" d="M-43.22,4.112h0a4.116,4.116,0,0,0,4.1,4.112H-4.1A4.117,4.117,0,0,0,0,4.112,4.117,4.117,0,0,0-4.1,0H-39.124a4.116,4.116,0,0,0-4.1,4.112" transform="translate(58.783 -206.058) rotate(-180)"/>
+              <path id="Fill_205" data-name="Fill 205" class="cls-10" d="M0,8.224H-11.865V0H0Z" transform="translate(65.845 -206.058) rotate(-180)"/>
+              <path id="Fill_206" data-name="Fill 206" class="cls-8" d="M0,8.224H-3.672V0H0Z" transform="translate(86.75 -206.058) rotate(-180)"/>
+              <path id="Fill_207" data-name="Fill 207" class="cls-8" d="M0,8.224H-3.107V0H0Z" transform="translate(94.659 -206.058) rotate(-180)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Path_3" data-name="Path 3" class="cls-14" d="M0,0,17.564,17.564H119" transform="translate(71 378)"/>
+      <g id="Group_2_Copy" data-name="Group 2 Copy" transform="translate(92 450)">
+        <path id="Path_3-2" data-name="Path 3" class="cls-14" d="M0,0,17.564,17.564H98"/>
+        <circle id="Oval-2" data-name="Oval" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(97 15)"/>
+      </g>
+      <g id="Group_2_Copy_2" data-name="Group 2 Copy 2" transform="translate(93 548)">
+        <path id="Path_3-3" data-name="Path 3" class="cls-14" d="M0,0,17.564,17.564H98"/>
+        <circle id="Oval-3" data-name="Oval" class="cls-3" cx="2.5" cy="2.5" r="2.5" transform="translate(97 15)"/>
+      </g>
+    </g>
+  </g>
+</svg>
