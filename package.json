@@ -1,0 +1,30 @@
+{
+  "name": "share-image",
+  "version": "0.0.1",
+  "description": "Share image by gese",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "*",
+    "puppeteer": "^1.9.0",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "lodash": "^4.17.11",
+    "morgan": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgzhang/share-image.git"
+  },
+  "keywords": [
+    "share=image"
+  ],
+  "author": "kaigezhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kgzhang/share-image/issues"
+  },
+  "homepage": "https://github.com/kgzhang/share-image#readme"
+}
