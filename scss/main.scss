@@ -1,6 +1,20 @@
 // Tailwind
 @tailwind preflight;
 
+.tag {
+    @apply inline-block;
+    @apply px-2;
+    @apply py-1;
+    @apply bg-grey-light;
+    @apply rounded;
+    @apply text-center;
+    @apply text-xs;
+    @apply text-blue;
+    @apply cursor-pointer;
+    @apply mr-2;
+    @apply mb-2;
+    @apply whitespace-no-wrap;
+}
 
 @tailwind components;
 @tailwind utilities;

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Test Template</title>
-  <link rel="stylesheet" href="./styles/style.css">
+  <link rel="stylesheet" href="./styles/main.css">
   <style>
     @font-face{
         font-family: 'DINCond-Black';
@@ -16,18 +16,31 @@
         font-family: 'DINCond-Black';
     }
     .dna-left {
+      min-height: 100%;
+      min-width: 100%;
+    }
+    .qrcode {
+      width: 70px;
+      height: 70px;
+      background-color: white;
+      float: left;
+    }
+    .mark {
+      float: right;
+    }
+    /* .dna-left {
       background-size: contain;
       height: 100%;
       min-width: 100%;
       background-image: url('./images/dna_left.svg');
       background-size: cover;
       background-position: right;
-    }
+    } */
   </style>
 </head>
 <body>
-<div class="bg-blue py-6 relative">
-  <div class="px-4 pt-4">
+<div class="bg-blue py-6" style="width: 375px; height: 718px;">
+  <div class="px-4 pt-2">
     <div class="flex items-center">
       <div class="w-2/3">
         <h2 class="text-white text-3xl">
@@ -43,52 +56,47 @@
     </div>
   </div>
 
-  <div class="bg-white rounded -mt-4 pt-6 shadow mx-4">
-    <div class="flex justify-between">
-      <div class="border-l-8 border-blue">
-        <h2 class="text-blue pl-2 text-3xl">16<span class="text-xs">个稀有标签</span></h2>
-      </div>
+  <div class="bg-white rounded-lg -mt-4 pt-6 shadow mx-4">
+    <div class="border-l-8 border-blue">
+      <h2 class="text-blue pl-2 text-3xl">16<span class="text-xs">个稀有标签</span></h2>
     </div>
     <div class="py-3 leading-tight pl-4">
       <% tags.forEach(function(tag) {%>
-        <span class="inline-block px-2 py-1 bg-grey-light rounded text-center text-xs text-blue cursor-pointer mr-2 mb-2 whitespace-no-wrap">
+        <span class="tag">
             <%= tag %>
           </span>
       <% });%>
 
     </div>
-    <div class="py-4 flex">
+    <div class="py-4 flex items-center">
       <div class="w-1/2">
-        <div class="dna-left"></div>
+        <img src="./images/dna_left.svg" alt="" class="dna-left">
       </div>
-      <div class="flex flex-col text-blue leading-tight w-1/2 pl-2 ">
+      <div class="text-blue leading-tight w-1/2 pl-2 ">
         <div class="mb-4">
-          <h1>2.3% <span class="text-sm whitespace-no-wrap">稀有指数</span></h1>
-          <h4 class="font-thin">轻微易燃易爆</h4>
-          <p class="text-xxs">基因DBH rs123124124 位点 T 型</p>
+          <h1>2.3% <span class="text-xs whitespace-no-wrap font-semibold">稀有指数</span></h1>
+          <h4 class="font-thin font-extrabold">轻微易燃易爆</h4>
+          <p class="text-xxs font-light">基因DBH rs123124124 位点 T 型</p>
         </div>
         <div class="mb-4">
-          <h1>2.3% <span class="text-sm whitespace-no-wrap">稀有指数</span></h1>
-          <h4 class="font-thin">轻微易燃易爆</h4>
-          <p class="text-xs">基因DBH rs123124124 位点 T 型</p>
+          <h1>2.3% <span class="text-xs whitespace-no-wrap font-semibold">稀有指数</span></h1>
+          <h4 class="font-thin font-extrabold">轻微易燃易爆</h4>
+          <p class="text-xxs font-light">基因DBH rs123124124 位点 T 型</p>
         </div>
 
-        <div class="">
-          <h1>2.3% <span class="text-sm whitespace-no-wrap">稀有指数</span></h1>
-          <h4 class="font-thin">轻微易燃易爆</h4>
-          <p class="text-xs">基因DBH rs123124124 位点 T 型</p>
+        <div>
+          <h1>2.3% <span class="text-xs whitespace-no-wrap font-semibold">稀有指数</span></h1>
+          <h4 class="font-thin font-extrabold">轻微易燃易爆</h4>
+          <p class="text-xxs font-light">基因DBH rs123124124 位点 T 型</p>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="py-4 flex items-center justify-around">
-    <div>
-      <div class="w-24 h-24 bg-grey">
-      </div>
-    </div>
+  <div class="mx-8 mt-6 relative">
+    <div class="qrcode absolute pin-l"></div>
 
-    <div class="text-white text-center">
+    <div class="absolute pin-r inline-block text-xs text-white text-center">
       <div class="mb-2">
         <img src="./images/gese_logo.svg" alt="">
       </div>
