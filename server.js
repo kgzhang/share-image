@@ -7,7 +7,10 @@ const puppeteer = require('puppeteer');
 const app = express();
 
 // app.engine('html', ejs.__express)
-app.set('view engine', 'ejs');
+
+app.engine('html', ejs.__express);
+app.set('view engine', 'html');
+// app.set('view engine', 'ejs');
 app.use(morgan('combined'));
 app.use(express.static('dist'));
 app.use(cors());

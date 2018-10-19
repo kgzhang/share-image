@@ -4,13 +4,15 @@
   "description": "Share image by gese",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "dev": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
   "dependencies": {
-    "express": "*",
-    "puppeteer": "^1.9.0",
     "cors": "^2.8.4",
     "ejs": "^2.6.1",
+    "express": "*",
     "lodash": "^4.17.11",
     "morgan": "^1.9.1"
   },
@@ -26,5 +28,14 @@
   "bugs": {
     "url": "https://github.com/kgzhang/share-image/issues"
   },
-  "homepage": "https://github.com/kgzhang/share-image#readme"
+  "homepage": "https://github.com/kgzhang/share-image#readme",
+  "devDependencies": {
+    "purgecss-webpack-plugin": "^1.3.1",
+    "puppeteer": "^1.9.0",
+    "purgecss": "^1.1.0",
+    "tailwindcss": "^0.6.6",
+    "glob-all": "^3.1.0",
+    "laravel-mix": "^2.1.14",
+    "laravel-mix-purgecss": "^3.0.0"
+  }
 }
