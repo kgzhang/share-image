@@ -74,6 +74,10 @@ app.get('/ancestry', (req, res) => {
 	res.render('ancestry', { locations: ancestries });
 });
 
+app.get('/details', (req, res) => {
+  res.render('details');
+});
+
 app.get('/export/pdf', (req, res) => {
 	(async () => {
 		const browser = await puppeteer.launch();
@@ -111,10 +115,8 @@ app.get('/', (req, res) => {
 
 const port = process.env.PORT || 3000;
 http.listen(
-	{
-		host: '192.168.31.67',
-		port
-	},
+  port
+	,
 	() => {
 		console.log('Listening on:' + port);
 	}

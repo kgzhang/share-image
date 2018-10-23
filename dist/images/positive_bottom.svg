@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="18px" viewBox="0 0 150 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="基因解读" transform="translate(-32.000000, -212.000000)" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(14.000000, 150.000000)">
+                <g id="Group-14" transform="translate(93.000000, 71.000000) scale(1, -1) translate(-93.000000, -71.000000) translate(18.000000, 62.000000)">
+                    <path d="M138,8 L150,8 L150,12 C150,15.3137085 147.313708,18 144,18 L144,18 C140.686292,18 138,15.3137085 138,12 L138,8 Z" id="Rectangle" fill="#50B4FF"></path>
+                    <path d="M92,10 L104,10 L104,10 C104,13.3137085 101.313708,16 98,16 L98,16 C94.6862915,16 92,13.3137085 92,10 Z" id="Rectangle-Copy-15" fill="#50B4FF"></path>
+                    <path d="M46,0 L58,0 L58,4 C58,7.3137085 55.3137085,10 52,10 L52,10 C48.6862915,10 46,7.3137085 46,4 L46,0 Z" id="Rectangle-Copy-23" fill="#50B4FF"></path>
+                    <path d="M122,11 L134,11 L134,11 C134,14.3137085 131.313708,17 128,17 L128,17 C124.686292,17 122,14.3137085 122,11 Z" id="Rectangle-Copy-12" fill="#006ED3"></path>
+                    <path d="M76,10 L88,10 L88,10 C88,13.3137085 85.3137085,16 82,16 L82,16 C78.6862915,16 76,13.3137085 76,10 Z" id="Rectangle-Copy-16" fill="#AEDEFF"></path>
+                    <path d="M30,0 L42,0 L42,4 C42,7.3137085 39.3137085,10 36,10 L36,10 C32.6862915,10 30,7.3137085 30,4 L30,0 Z" id="Rectangle-Copy-24" fill="#AEDEFF"></path>
+                    <path d="M0,0 L12,0 L12,0 C12,3.3137085 9.3137085,6 6,6 L6,6 C2.6862915,6 4.05812251e-16,3.3137085 0,7.34788079e-16 Z" id="Rectangle-Copy-25" fill="#AEDEFF"></path>
+                    <rect id="Rectangle" fill="#006ED3" x="138" y="0" width="12" height="6"></rect>
+                    <rect id="Rectangle-Copy-17" fill="#006ED3" x="92" y="0" width="12" height="4"></rect>
+                    <rect id="Rectangle-Copy-13" fill="#006ED3" x="122" y="0" width="12" height="2"></rect>
+                    <rect id="Rectangle-Copy-18" fill="#006ED3" x="76" y="0" width="12" height="6"></rect>
+                    <rect id="Rectangle-Copy-11" fill="#AEDEFF" x="138" y="6" width="12" height="2"></rect>
+                    <rect id="Rectangle-Copy-19" fill="#AEDEFF" x="92" y="4" width="12" height="1"></rect>
+                    <rect id="Rectangle-Copy-21" fill="#AEDEFF" x="92" y="8" width="12" height="2"></rect>
+                    <rect id="Rectangle-Copy-22" fill="#006ED3" x="92" y="5" width="12" height="3"></rect>
+                    <rect id="Rectangle-Copy-14" fill="#35B5FC" x="122" y="2" width="12" height="9"></rect>
+                    <rect id="Rectangle-Copy-20" fill="#35B5FC" x="76" y="6" width="12" height="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
