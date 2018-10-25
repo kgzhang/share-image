@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="153px" height="23px" viewBox="0 0 153 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="基因解读" transform="translate(-202.000000, -207.000000)" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(14.000000, 150.000000)">
+                <g id="Group-15" transform="translate(264.500000, 68.500000) scale(1, -1) translate(-264.500000, -68.500000) translate(188.000000, 57.000000)">
+                    <rect id="Rectangle" fill="#FD6600" x="123" y="0" width="27" height="13"></rect>
+                    <rect id="Rectangle-Copy-27" fill="#FD6600" x="92" y="0" width="12" height="4"></rect>
+                    <rect id="Rectangle-Copy-30" fill="#FD6600" x="92" y="13" width="12" height="2"></rect>
+                    <rect id="Rectangle-Copy-29" fill="#943B00" x="92" y="4" width="12" height="9"></rect>
+                    <rect id="Rectangle-Copy-28" fill="#943B00" x="76" y="0" width="12" height="10"></rect>
+                    <rect id="Rectangle-Copy-33" fill="#FD6600" x="0" y="0" width="12" height="4"></rect>
+                    <rect id="Rectangle-Copy-34" fill="#FEAC75" x="0" y="4" width="12" height="2"></rect>
+                    <rect id="Rectangle-Copy-32" fill="#943B00" x="33" y="0" width="24" height="2"></rect>
+                    <polygon id="Rectangle-Copy-26" fill="#FEAC75" points="120 13 153 13 150 23 123 23"></polygon>
+                    <polygon id="Rectangle-Copy-31" fill="#FD6600" points="28 2 61 2 58 8 31 8"></polygon>
+                    <path d="M131,0 L142,0 L142,3.5 C142,6.53756612 139.537566,9 136.5,9 L136.5,9 C133.462434,9 131,6.53756612 131,3.5 L131,0 Z" id="Rectangle" fill="#943B00"></path>
+                    <rect id="Rectangle-Copy-22" fill="#006ED3" x="76" y="4" width="12" height="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

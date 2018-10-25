@@ -66,12 +66,20 @@ const ancestries = [
 	}
 ];
 
+app.get('/', (req, res) => {
+	return 'hello'
+});
+
 app.get('/result', (req, res) => {
 	res.render('result', { tags });
 });
 
 app.get('/ancestry', (req, res) => {
 	res.render('ancestry', { locations: ancestries });
+});
+
+app.get('/detail', (req, res) => {
+    res.render('detail');
 });
 
 app.get('/export/pdf', (req, res) => {
@@ -82,11 +90,11 @@ app.get('/export/pdf', (req, res) => {
 		const template = req.query.name || 'result';
 
 		await page.goto(`http://192.168.31.67:3000/${template}`, {
-			waitUntil: 'load'
+			waitUntil: 'networkidle2'
 		});
 		await page.setViewport({
-			width: 376, // 320, 768, 1024, 1280
-			height: template === 'result' ? 802 : 720,
+			width: 375, // 320, 768, 1024, 1280
+			height: 718,
 			deviceScaleFactor: 2
 		});
 		// const path = `screenshots/screen-${Date.now()}.png`
@@ -110,12 +118,7 @@ app.get('/', (req, res) => {
 });
 
 const port = process.env.PORT || 3000;
-http.listen(
-	{
-		host: '192.168.31.67',
-		port
-	},
-	() => {
+http.listen(port, () => {
 		console.log('Listening on:' + port);
 	}
 );
