@@ -3,17 +3,24 @@
 
 .tag {
     @apply inline-block;
-    @apply px-2;
-    @apply py-1;
-    @apply bg-grey-light;
     @apply rounded;
     @apply text-center;
     @apply text-xs;
-    @apply text-blue;
+    @apply text-grey-dark;
     @apply cursor-pointer;
     @apply mr-2;
     @apply mb-2;
     @apply whitespace-no-wrap;
+    padding: 2px 6px;
+    background-color: rgba(230,230,230,1);
+}
+
+.card {
+    @apply bg-white;
+    @apply shadow;
+    @apply rounded-lg;
+    @apply m-4;
+    @apply py-8;
 }
 
 @tailwind components;

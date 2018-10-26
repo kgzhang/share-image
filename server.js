@@ -93,7 +93,7 @@ app.get('/export/pdf', (req, res) => {
 			waitUntil: 'networkidle2'
 		});
 		await page.setViewport({
-			width: 375, // 320, 768, 1024, 1280
+			width: 375, // 320, 768, 1024, 1280'
 			height: 718,
 			deviceScaleFactor: 2
 		});

@@ -625,19 +625,26 @@ table {
 
 .tag {
   display: inline-block;
-  padding-left: .5rem;
-  padding-right: .5rem;
-  padding-top: .25rem;
-  padding-bottom: .25rem;
-  background-color: #e6e6e6;
   border-radius: .25rem;
   text-align: center;
   font-size: .75rem;
-  color: #0086ff;
+  color: #8795a1;
   cursor: pointer;
   margin-right: .5rem;
   margin-bottom: .5rem;
   white-space: nowrap;
+  padding: 2px 6px;
+  background-color: #e6e6e6;
+}
+
+.card {
+  background-color: #fff;
+  -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .1);
+          box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .1);
+  border-radius: .5rem;
+  margin: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .container {
@@ -5970,8 +5977,12 @@ table {
   color: #ffebef;
 }
 
-.text-xxs {
+.text-3xs {
   font-size: .5rem;
+}
+
+.text-2xs {
+  font-size: .625rem;
 }
 
 .text-xs {
@@ -6008,6 +6019,14 @@ table {
 
 .text-5xl {
   font-size: 3rem;
+}
+
+.text-6xl {
+  font-size: 4rem;
+}
+
+.text-7xl {
+  font-size: 5rem;
 }
 
 .italic {
@@ -11663,8 +11682,12 @@ table {
     color: #ffebef;
   }
 
-  .sm\:text-xxs {
+  .sm\:text-3xs {
     font-size: .5rem;
+  }
+
+  .sm\:text-2xs {
+    font-size: .625rem;
   }
 
   .sm\:text-xs {
@@ -11701,6 +11724,14 @@ table {
 
   .sm\:text-5xl {
     font-size: 3rem;
+  }
+
+  .sm\:text-6xl {
+    font-size: 4rem;
+  }
+
+  .sm\:text-7xl {
+    font-size: 5rem;
   }
 
   .sm\:italic {
@@ -17357,8 +17388,12 @@ table {
     color: #ffebef;
   }
 
-  .md\:text-xxs {
+  .md\:text-3xs {
     font-size: .5rem;
+  }
+
+  .md\:text-2xs {
+    font-size: .625rem;
   }
 
   .md\:text-xs {
@@ -17395,6 +17430,14 @@ table {
 
   .md\:text-5xl {
     font-size: 3rem;
+  }
+
+  .md\:text-6xl {
+    font-size: 4rem;
+  }
+
+  .md\:text-7xl {
+    font-size: 5rem;
   }
 
   .md\:italic {
@@ -23051,8 +23094,12 @@ table {
     color: #ffebef;
   }
 
-  .lg\:text-xxs {
+  .lg\:text-3xs {
     font-size: .5rem;
+  }
+
+  .lg\:text-2xs {
+    font-size: .625rem;
   }
 
   .lg\:text-xs {
@@ -23089,6 +23136,14 @@ table {
 
   .lg\:text-5xl {
     font-size: 3rem;
+  }
+
+  .lg\:text-6xl {
+    font-size: 4rem;
+  }
+
+  .lg\:text-7xl {
+    font-size: 5rem;
   }
 
   .lg\:italic {
@@ -28745,8 +28800,12 @@ table {
     color: #ffebef;
   }
 
-  .xl\:text-xxs {
+  .xl\:text-3xs {
     font-size: .5rem;
+  }
+
+  .xl\:text-2xs {
+    font-size: .625rem;
   }
 
   .xl\:text-xs {
@@ -28783,6 +28842,14 @@ table {
 
   .xl\:text-5xl {
     font-size: 3rem;
+  }
+
+  .xl\:text-6xl {
+    font-size: 4rem;
+  }
+
+  .xl\:text-7xl {
+    font-size: 5rem;
   }
 
   .xl\:italic {

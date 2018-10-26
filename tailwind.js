@@ -263,7 +263,8 @@ module.exports = {
   */
 
   textSizes: {
-    'xxs': '.5rem',     // 6px
+    '3xs': '.5rem',     // 8px
+    '2xs': '.625rem',     // 10px
     'xs': '.75rem',     // 12px
     'sm': '.875rem',    // 14px
     'base': '1rem',     // 16px
@@ -273,6 +274,9 @@ module.exports = {
     '3xl': '1.875rem',  // 30px
     '4xl': '2.25rem',   // 36px
     '5xl': '3rem',      // 48px
+    '6xl': '4rem',      // 64px
+    '7xl': '5rem',      // 80px
+    
   },
 
 

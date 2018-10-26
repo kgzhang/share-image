@@ -12,7 +12,6 @@
             width: 70px;
             height: 70px;
             background-color: white;
-            line-height: 70px;
         }
         .bottom {
             height: 18px;
@@ -58,7 +57,7 @@
                     <div class="pt-2 pl-4 leading-normal">
                         <div class="clearfix">
                             <span class="text-blue f-bold text-sm font-han-600">基因</span>
-                            <span class="w-4 h-4 rounded-full text-white text-center text-xxs bg-blue inline-block float-right mr-2 leading-normal f-normal">
+                            <span class="w-4 h-4 rounded-full text-white text-center text-2xs bg-blue inline-block float-right mr-2 leading-normal f-normal">
                 稀
               </span>
                         </div>
@@ -95,29 +94,43 @@
                 你的祖先在西藏雅鲁藏布江，祖源百分比数据调用规则：调用用户祖源祖源。
             </p>
         </div>
-        <div class="px-4 py-12">
+        <div class="px-4 py-4">
                 <div class="flex justify-between">
                     <div class="flex items-baseline">
                         <img src="./images/fire_blue.svg" alt="" class="inline-block w-8 h-8">
-                        <div class="inline-block text-blue text-xxs font-han-400">爱刺激</div>
+                        <div class="inline-block text-blue text-2xs font-han-600">爱刺激</div>
                     </div>
                     <div class="flex justify-end items-baseline text-blue">
-                        <div class="px-1 text-4xl font-db">=</div>
-                        <div class="text-4xl font-db">40</div>
+                        <div class="px-2 text-3xl font-db">=</div>
+                        <div class="text-3xl font-db">40</div>
                         <div class="text-xl font-db">%</div>
-                        <div class="pl-1 text-xxs font-han-400">基因</div>
-                        <div class="px-1 text-4xl font-db">+</div>
-                        <div class="text-4xl font-db">60</div>
+                        <div class="pl-1 text-2xs font-han-600">基因</div>
+                        <div class="px-2 text-3xl font-db">+</div>
+                        <div class="text-3xl font-db">60</div>
                         <div class="text-xl font-db">%</div>
-                        <div class="pl-1 text-xxs font-han-400">生活经历</div>
+                        <div class="pl-1 text-2xs font-han-600">生活经历</div>
                     </div>
 
                 </div>
         </div>
 
     </div>
+    <!-- 为了解决phantom对flex支持不足的问题 -->
+    <div class="mx-8 mt-6 relative">
+            <div class="qrcode absolute pin-l"></div>
+            
+            <div class="absolute pin-r">
+                <div class="align-middle text-white text-center font-han-300 text-2xs py-1">
+                    <img src="./images/gese_logo.svg" alt="" class="h-5 mb-2">
+                    <p>用科学定义独一无二的你</p>
+                    <p>gesedna.com</p>
+                </div>
+            </div>
+            
+          </div>
 
-    <div class="mx-8 mt-6">
+<!-- 如果支持flex下面的显示会更好 -->
+    <!-- <div class="mx-8 mt-6">
         <div class="flex justify-between items-center">
             <div class="qrcode text-center text-blue text-xs">二维码</div>
 
@@ -127,9 +140,8 @@
                 <p>gesedna.com</p>
             </div>
         </div>
-
-
-    </div>
+    </div> -->
+    
 
 </div>
 </body>
