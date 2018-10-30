@@ -3,7 +3,13 @@
     src : url('../fonts/DINCond-Black.otf');
 }
 
+
 @font-face {
+    font-family: 'hans';
+    src: url('../fonts/SourceHanSansCN-Normal.otf');
+}
+
+/* @font-face {
     font-family: 'hans';
     src: url('../fonts/SourceHanSansCN-ExtraLight.otf');
     font-weight: 100;
@@ -38,11 +44,44 @@
     src: url('../fonts/SourceHanSansCN-Heavy.otf');
     font-weight: 700;
 }
+ */
+
 
 .font-db {
     font-family: 'DINCond-Black';
 }
-.font-han-100 {
+.font-han {
+    font-family: 'hans';
+}
+
+.font-100 {
+    font-weight: 100;
+}
+
+.font-200 {
+    font-weight: 200;
+}
+
+.font-300 {
+    font-weight: 300;
+}
+
+.font-400 {
+    font-weight: 400;
+}
+
+.font-500 {
+    font-weight: 500;
+}
+.font-600 {
+    font-weight: 600;
+}
+.font-700 {
+    font-weight: 700;
+}
+
+
+/* .font-han-100 {
     font-family: 'hans';
     font-weight: 100;
 }
@@ -57,12 +96,12 @@
 .font-han-400 {
     font-family: 'hans';
     font-weight: 400;
-}
-.font-han-500 {
+} */
+/* .font-han-500 {
     font-family: 'hans';
     font-weight: 500;
-}
-.font-han-600 {
+} */
+/* .font-han-600 {
     font-family: 'hans';
     font-weight: 600;
 }

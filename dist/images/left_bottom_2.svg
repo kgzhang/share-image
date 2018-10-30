@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="50px" viewBox="0 0 150 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="现状：无" transform="translate(-179.000000, -30.000000)" fill-rule="nonzero">
+            <g id="Group-4-Copy">
+                <g id="Group-14-Copy" transform="translate(254.000000, 55.000000) scale(1, -1) translate(-254.000000, -55.000000) translate(179.000000, 30.000000)">
+                    <path d="M138,22 L150,22 L150,44 C150,47.3137085 147.313708,50 144,50 L144,50 C140.686292,50 138,47.3137085 138,44 L138,22 Z" id="Rectangle" fill="#50B4FF"></path>
+                    <path d="M92,28 L104,28 L104,38 C104,41.3137085 101.313708,44 98,44 L98,44 C94.6862915,44 92,41.3137085 92,38 L92,28 Z" id="Rectangle-Copy-15" fill="#50B4FF"></path>
+                    <path d="M46,0 L58,0 L58,22 C58,25.3137085 55.3137085,28 52,28 L52,28 C48.6862915,28 46,25.3137085 46,22 L46,0 Z" id="Rectangle-Copy-23" fill="#50B4FF"></path>
+                    <path d="M122,31 L134,31 L134,41 C134,44.3137085 131.313708,47 128,47 L128,47 C124.686292,47 122,44.3137085 122,41 L122,31 Z" id="Rectangle-Copy-12" fill="#006ED3"></path>
+                    <path d="M76,28 L88,28 L88,38 C88,41.3137085 85.3137085,44 82,44 L82,44 C78.6862915,44 76,41.3137085 76,38 L76,28 Z" id="Rectangle-Copy-16" fill="#AEDEFF"></path>
+                    <path d="M30,0 L42,0 L42,22 C42,25.3137085 39.3137085,28 36,28 L36,28 C32.6862915,28 30,25.3137085 30,22 L30,0 Z" id="Rectangle-Copy-24" fill="#AEDEFF"></path>
+                    <path d="M0,0 L12,0 L12,10 C12,13.3137085 9.3137085,16 6,16 L6,16 C2.6862915,16 4.05812251e-16,13.3137085 0,10 L0,0 Z" id="Rectangle-Copy-25" fill="#AEDEFF"></path>
+                    <rect id="Rectangle" fill="#006ED3" x="138" y="0" width="12" height="16"></rect>
+                    <rect id="Rectangle-Copy-17" fill="#006ED3" x="92" y="0" width="12" height="11"></rect>
+                    <rect id="Rectangle-Copy-13" fill="#006ED3" x="122" y="0" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-18" fill="#006ED3" x="76" y="0" width="12" height="16"></rect>
+                    <rect id="Rectangle-Copy-11" fill="#AEDEFF" x="138" y="18" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-35" fill="#AEDEFF" x="138" y="31" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-36" fill="#AEDEFF" x="138" y="3" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-37" fill="#AEDEFF" x="76" y="3" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-38" fill="#AEDEFF" x="92" y="1" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-39" fill="#AEDEFF" x="46" y="12" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-40" fill="#AEDEFF" x="46" y="3" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-19" fill="#AEDEFF" x="92" y="11" width="12" height="3"></rect>
+                    <rect id="Rectangle-Copy-21" fill="#AEDEFF" x="92" y="23" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-22" fill="#006ED3" x="92" y="14" width="12" height="9"></rect>
+                    <rect id="Rectangle-Copy-14" fill="#35B5FC" x="122" y="5" width="12" height="25"></rect>
+                    <rect id="Rectangle-Copy-20" fill="#35B5FC" x="76" y="16" width="12" height="11"></rect>
+                    <rect id="Rectangle-Copy-41" fill="#35B5FC" x="30" y="10" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-42" fill="#35B5FC" x="30" y="3" width="12" height="2"></rect>
+                    <rect id="Rectangle-Copy-43" fill="#006ED3" x="0" y="5" width="12" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

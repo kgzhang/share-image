@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Test Template</title>
+    <link rel="stylesheet" href="./styles/fonts.css">
+    <link rel="stylesheet" href="./styles/main.css">
+    <style>
+        .qrcode {
+            width: 70px;
+            height: 70px;
+            background-color: white;
+            line-height: 70px;
+        }
+
+        .mark {
+            float: right;
+        }
+
+        .area-list li {
+            margin-bottom: 0.5rem;
+        }
+
+        .area-list li:last-child {
+            margin-bottom: 0;
+        }
+
+        .percentage {
+            font-size: 4.375rem;
+        }
+
+        .circle {
+            fill: none;
+            stroke-width: 2.0;
+        }
+        .completed-arc {
+            fill: none;
+            stroke-width: 1.5;
+            stroke-linecap: butt;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="bg-blue py-6" style="width: 375px; height: 718px;">
+        <div class="text-white px-4">
+            <div class="text-4xl font-han font-600">各色小助手</div>
+            <div class="font-han font-400 text-sm pt-1">的祖源画像</div>
+
+        </div>
+
+        <div class="card">
+            <div class="border-l-8 border-solid border-blue flex items-center justify-between">
+                <div class="text-blue px-2">
+                    <div class="percentage font-db leading-none -mt-3">50.12
+                        <span class="text-3xl">%</span></div>
+                    <div class="font-han font-700 text-lg">中国华北地区</div>
+
+                </div>
+
+                <div class="p-2 mr-2 rounded-full bg-white float-right shadow relative flex items-center justify-center" style="width: 72px; height: 72px;">
+                    <img src="./images/394.png" class="rounded-full" style="width: 68px; height: 68px; padding: 0.25rem;">
+                    <div class="absolute pin">
+                        <svg viewBox="0 0 36 36">
+                            <path d="M 18 2.085 a 16.5 16.5 0 0 1 0 33 a 16.5 16.5 0 0 1 0 -33" class="circle" style="stroke: rgb(238, 238, 238);"></path>
+                            <path stroke-dasharray="50.25, 100" d="M 18 2.085 a 16.5 16.5 0 0 1 0 33 a 16.5 16.5 0 0 1 0 -33"
+                                class="completed-arc" style="stroke: rgb(152, 234, 6);"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="pt-4 leading-tight pl-4">
+                <span class="tag font-han font-600">蒙古人种</span>
+                <span class="tag font-han font-600">牛羊肉</span>
+                <span class="tag font-han font-600">鼻子窄</span>
+                <span class="tag font-han font-600">西藏</span>
+                <span class="tag font-han font-600">松赞干布</span>
+                <span class="tag font-han font-600">牛羊肉</span>
+            </div>
+
+            <div class="px-4 py-1 text-grey-dark text-xs font-han font-500" style="line-height: 22px;">
+                4000多年前，你的祖先在西藏雅鲁藏布江，祖源百分比数据调用规则：调用用户祖源祖源百分比数据调用规则：调用用户祖源祖源百分比数据调用规则：调用用户祖源
+            </div>
+
+            <ul class="area-list list-reset text-grey-dark px-4 pt-2">
+                <% locations.forEach(function(location, index){ %>
+                <li class="flex items-center">
+                    <div class="w-2/5">
+                        <div class="flex items-center">
+                            <span class="w-4 h-4 text-white text-center font-db leading-none text-sm" style="background-color: <%= location.color %>">
+                                <%= index + 1 %></span>
+
+                            <div class="inline mx-2 whitespace-no-wrap font-han font-600 text-xs">
+                                <%= location.name %>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="w-2/5">
+                        <svg width="120" height="20" viewBox="0 0 120 20">
+                            <rect x="0" y="5" width="<%= (location.percent * 200).toFixed(2) %>" height="12" rx="5" ry="5"
+                                fill="<%= location.color %>" />
+                        </svg>
+                    </div>
+                    <div class="w-1/5">
+                        <div class="float-right">
+                            <div class="text-xs whitespace-no-wrap text-left font-db leading-none">
+                                <%= (location.percent * 100).toFixed(2) %>%
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <% }); %>
+            </ul>
+
+        </div>
+
+        <div class="mx-8 mt-6 relative">
+            <div class="qrcode absolute pin-l"></div>
+
+            <div class="absolute pin-r">
+                <div class="align-middle text-white text-center font-han font-300 text-2xs py-1">
+                    <img src="./images/gese_logo.svg" alt="" class="h-5 mb-2">
+                    <p>用科学定义独一无二的你</p>
+                    <p>gesedna.com</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

@@ -78,9 +78,30 @@ app.get('/ancestry', (req, res) => {
 	res.render('ancestry', { locations: ancestries });
 });
 
+
+app.get('/result2', (req, res) => {
+	res.render('result2', { tags });
+});
+
+app.get('/ancestry2', (req, res) => {
+	res.render('ancestry2', { locations: ancestries });
+});
+
 app.get('/detail', (req, res) => {
+    res.render('detail2');
+});
+
+
+app.get('/detail2', (req, res) => {
     res.render('detail');
 });
+
+
+app.get('/detail3', (req, res) => {
+    res.render('detail3');
+});
+
+
 
 app.get('/export/pdf', (req, res) => {
 	(async () => {
